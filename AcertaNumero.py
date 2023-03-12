@@ -1,10 +1,7 @@
 import random as rd
 tentativas =3
 aleatorio =rd.randint(1, 50)
-print(aleatorio)
 print("\nBem vindo ao jogo de adivinhação\n")
-print(aleatorio)
-
 
 while tentativas>0:
     print("tentativas: ", tentativas)
